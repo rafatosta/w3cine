@@ -30,10 +30,6 @@
 13. **Design responsivo:** o sistema deve ter um design responsivo, para que possa ser acessado por diferentes dispositivos, como computadores, tablets e smartphones.
 
 
+## Diagrama de Classes
 
-
-
-
-
-
-
+![Diagrama de Classes](doc/W3Cine%20-%20Diagrama%20de%20Classes.png)
