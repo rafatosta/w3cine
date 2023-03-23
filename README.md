@@ -33,3 +33,6 @@
 ## Diagrama de Classes
 
 ![Diagrama de Classes](doc/W3Cine%20-%20Diagrama%20de%20Classes.png)
+
+## Design
+![Ideia de Design](doc/ideia.png)
