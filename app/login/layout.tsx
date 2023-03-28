@@ -8,7 +8,7 @@ export default function LoginLayout({
   children: React.ReactNode;
 }) {
   return (
-    <div className="w-auto h-screen flex flex-col justify-start items-start bg-[url('/bgLogin.png')] bg-cover bg-center overflow-scroll">
+    <div className="w-screen h-full sm:h-screen flex flex-col justify-start items-start bg-[url('/bgLogin.png')] bg-cover bg-center ">
       <div className="m-8 p-2 px-4 bg-white/90 rounded-xl">
         <Link href="/">
           <LogoW3Cine />
