@@ -20,7 +20,7 @@ function Input(props: InputProps) {
       </div>
 
       <input
-        className="border p-2 rounded-lg"
+        className="p-2 w-full rounded-md border-0 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 sm:py-1.5 sm:text-sm sm:leading-6"
         type={props.type}
         {...props.useFormRegisterReturn}
       />
