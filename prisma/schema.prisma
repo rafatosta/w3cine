@@ -17,7 +17,7 @@ model Movie {
   classification String
   duration       String
   genre          String
-  banner_url     String
+  file     String
   Session        Session[]
 
   @@map("movies")
