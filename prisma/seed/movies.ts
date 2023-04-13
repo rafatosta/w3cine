@@ -6,7 +6,7 @@ export const moviesList = [
     classification: "16",
     duration: "169 min",
     genre: "Ação, Aventura, Ficção, Suspense",
-    banner_url: "",
+    file: "44ee6198-fafd-4101-b2b0-55292caf7990.jpg",
   },
   {
     title: "Super Mario Bros.",
@@ -15,7 +15,7 @@ export const moviesList = [
     classification: "Livre",
     duration: "92 min",
     genre: "Ação, Aventura, Animação",
-    banner_url: "",
+    file: "b7bd9bb8-f131-44dd-8082-667078bf2b22.jpg",
   },
   {
     title: "Dungeons & Dragons - Honra Entre Rebeldes",
@@ -24,6 +24,24 @@ export const moviesList = [
     classification: "12",
     duration: "134 min",
     genre: "Ação, Aventura, Fantasia",
-    banner_url: "",
+    file: "c6dc072d-85eb-4536-9bbe-303d80857811.jpg",
+  },
+  {
+    title: "O Exorcista do Papa",
+    synopsis:
+      "A trama será baseada na história real do exorcista Gabriele Amorth, “um lendário padre italiano que realizou mais de 100 mil exorcismo para o vaticano”.",
+    classification: "16 anos",
+    duration: "103 min",
+    genre: "Terror",
+    file: "63b251cd-c0e4-43ec-917b-7883736af656.jpg",
+  },
+  {
+    title: "Suzume",
+    synopsis:
+      "Do mesmo criador de Your Name, Suzume no Tojimari acompanha dois amantes desafortunatos. Suzume, uma garota de 17 anos que vive em uma pacata cidade em Kyushu, conhece um jovem em uma jornada “procurando portas”. Ela o segue até um prédio em ruínas nas montanhas e encontra uma porta, como se \"só ela\" fosse salva da devastação. Suzume se sente atraída por um poder invisível e estende a mão para a porta. Logo, portas em todo o Japão começam a se abrir uma após a outra. As portas que se abriram devem ser fechadas para fechar a calamidade que jaz do outro lado. Agora, começa a \"jornada de fechar portas\" de Suzume.",
+    classification: "Verifique a classificação",
+    duration: "122 min",
+    genre: "Animação",
+    file: "05245469-94f9-4e4a-a23a-77107be0b736.jpg",
   },
 ];
